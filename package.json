@@ -1,0 +1,21 @@
+{
+  "name": "second_test_github_algo",
+  "version": "0.1.0",
+  "author": "rmiller_algorithmia <user+rmiller_algorithmia@algorithmia.com>",
+  "description": "Algorithmia Algorithm - rmiller_algorithmia/second_test_github_algo",
+  "main": "second_test_github_algo.js",
+  "bin": {
+    "second_test_github_algo": "./second_test_github_algo.js"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "algorithmia": "0.3.x"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
